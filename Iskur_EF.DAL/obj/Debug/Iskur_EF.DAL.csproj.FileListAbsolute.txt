@@ -1,0 +1,12 @@
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.DAL\bin\Debug\Iskur_EF.DAL.dll.config
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.DAL\bin\Debug\Iskur_EF.DAL.dll
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.DAL\bin\Debug\Iskur_EF.DAL.pdb
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.DAL\bin\Debug\EntityFramework.dll
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.DAL\bin\Debug\EntityFramework.xml
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.DAL\obj\Debug\Iskur_EF.DAL.csprojAssemblyReference.cache
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.DAL\obj\Debug\Iskur_EF.DAL.csproj.CoreCompileInputs.cache
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.DAL\obj\Debug\Iskur_EF.DAL.csproj.CopyComplete
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.DAL\obj\Debug\Iskur_EF.DAL.dll
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.DAL\obj\Debug\Iskur_EF.DAL.pdb

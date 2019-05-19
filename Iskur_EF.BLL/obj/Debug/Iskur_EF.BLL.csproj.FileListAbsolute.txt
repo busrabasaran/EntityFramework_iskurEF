@@ -1,0 +1,17 @@
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.BLL\bin\Debug\Iskur_EF.BLL.dll.config
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.BLL\bin\Debug\Iskur_EF.BLL.dll
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.BLL\bin\Debug\Iskur_EF.BLL.pdb
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.BLL\bin\Debug\EntityFramework.dll
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.BLL\bin\Debug\Iskur_EF.DAL.dll
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.BLL\bin\Debug\Iskur_EF.DAL.pdb
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.BLL\bin\Debug\Iskur_EF.DAL.dll.config
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.BLL\bin\Debug\EntityFramework.xml
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.BLL\obj\Debug\Iskur_EF.BLL.csprojAssemblyReference.cache
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.BLL\obj\Debug\Iskur_EF.BLL.Properties.Resources.resources
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.BLL\obj\Debug\Iskur_EF.BLL.csproj.GenerateResource.cache
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.BLL\obj\Debug\Iskur_EF.BLL.csproj.CoreCompileInputs.cache
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.BLL\obj\Debug\Iskur_EF.BLL.csproj.CopyComplete
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.BLL\obj\Debug\Iskur_EF.BLL.dll
+C:\WORKs\ENTITY_FRAMEWORK\Iskur_EF\Iskur_EF.BLL\obj\Debug\Iskur_EF.BLL.pdb
